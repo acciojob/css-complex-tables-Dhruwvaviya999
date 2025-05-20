@@ -10,6 +10,10 @@ th, td{
 	padding: 3px 5px;
 }
 
+th{
+	background-color: rgb(136, 136, 136);
+}
+
 thead{
 	background-color: #888888;
 }
