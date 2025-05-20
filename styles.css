@@ -6,11 +6,12 @@ table{
 
 th, td{
 	text-align:center;
-	border: 1px solid orange;
 	padding: 3px 5px;
 }
 
 th{
+	border: 1px solid orange;
+	border-width: 1px 1px 0px 0px;
 	background-color: rgb(136, 136, 136);
 	color: rgb(255, 255, 255);
 }
