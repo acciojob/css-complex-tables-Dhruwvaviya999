@@ -1,1 +1,14 @@
 /*  your css code here. If applicable */
+table{
+	border: 1px solid orange;
+}
+
+th, td{
+	text-align:center;
+	border: 1px solid orange;
+	padding: 3px 5px;
+}
+
+thead{
+	background-color: #888888;
+}
